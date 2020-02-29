@@ -18,3 +18,14 @@ ul.spot-list li header {
 	background-size: cover;
 	border-radius: 4px;
 }
+
+ul.spot-list li strong {
+	margin-top: 10px;
+	font-size: 24px;
+	color: #444;
+}
+
+ul.spot-list li span {
+	font-size: 15px;
+	color: #999;
+}
